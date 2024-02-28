@@ -1,32 +1,23 @@
-body {
+body{
     background-color: #a7cfe3;
-    
 }
-h1{
-    font-family: "Times New Roman", Times, serif;
-    text-align: center;
-    text-transform: uppercase;
-    color: #0d042b;
+hr{
+    height: 1px;
+    background-color: #34b58a;
+    border: none;
 }
-p{
+a{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #140151;
     text-indent: 50px;
     text-align: justify;
     letter-spacing: 1px;
 }
-li{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
-    color: #140151;
-    text-indent: 50px;
-    text-align: center, left;
-    letter-spacing: 1px;
-}
-hr{
-    height: 1px;
-    background-color: #34b58a;
-    border: none;
+h1{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0d042b;
 }
 button{
     background-color: #32287f;
